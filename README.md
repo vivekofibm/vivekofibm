@@ -24,9 +24,9 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=aviinash3&theme=cobalt&show_icons=true)](https://github.com/aviinash3/github-readme-stats)
+[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=vivekofibm&theme=cobalt&show_icons=true)](https://github.com/vivekofibm /github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviinash3&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekofibm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
