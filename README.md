@@ -6,12 +6,12 @@
 ### Hi there 👋
 
 <!--
-**aviinash3/aviinash3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vivekofibm/vivekofibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 A little about me:
 
-- 🇨🇦  Aagra, **UP, INDIA**.
+- 🇨🇦  Agra, **UP, INDIA**.
 - 🔭  I’m currently working with **Azure**, **AWS** and **Kubernetes**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation**.
 - 📚  Self-taught
